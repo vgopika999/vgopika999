@@ -1,4 +1,7 @@
-# Hi there! 👋
+# V GOPIKA
+## Data Science Researcher and Educator
+
+### Hi there! 👋
 
 I'm Gopika V, a Data Science Researcher and Educator with a passion for Life Sciences. I'm skilled in academic writing, curriculum development, and data-driven insights. Currently seeking entry-level opportunities in Data Science to drive industry advancements and innovative solutions.
 
@@ -67,4 +70,3 @@ Percentage: 95.4%
 - IBM Data Science Professional Certificate (01/2024 - 03/2024) - [Verify Certificate](https://coursera.org/verify/professional-cert/KHW8WJ6LKKEL)
 - Academic research and report writing (05/2022 - 07/2022) - SWAYAM online course certificate- KL040211030
 - Medical Coding (04/2019 - 05/2019) - AAPC/AHIMA Affiliated Certificate- MC/COK/144
-
