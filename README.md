@@ -70,3 +70,9 @@ Percentage: 95.4%
 - IBM Data Science Professional Certificate (01/2024 - 03/2024) - [Verify Certificate](https://coursera.org/verify/professional-cert/KHW8WJ6LKKEL)
 - Academic research and report writing (05/2022 - 07/2022) - SWAYAM online course certificate- KL040211030
 - Medical Coding (04/2019 - 05/2019) - AAPC/AHIMA Affiliated Certificate- MC/COK/144
+
+## Badges
+- [Badge 1](https://www.credly.com/badges/122789df-93d7-46ec-a278-2d331435e50b)
+- [Badge 2](https://www.credly.com/badges/1060d6dc-10b8-47af-99f9-6c00412851b0)
+- [Badge 3](https://www.credly.com/badges/c086be7a-900b-4ccf-8297-5f58b8b4b5ba)
+- [Badge 4](https://www.credly.com/badges/3d864999-6bf3-44cb-a373-af93f6193c73)
