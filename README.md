@@ -9,7 +9,8 @@ I'm Gopika V, a Data Science Researcher and Educator with a passion for Life Sci
 - **Phone:** 8891620948
 - **Location:** Ernakulam, India
 - **LinkedIn:** [linkedin.com/in/v-gopikaabab27192](linkedin.com/in/v-gopikaabab27192)
-
+- **DataSquirrel:** https://app.datasquirrel.ai/project/my-projects
+  
 ## Skills
 - Data analysis
 - Statistical Analysis
