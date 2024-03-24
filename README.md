@@ -22,6 +22,8 @@ I'm Gopika V, a Data Science Researcher and Educator with a passion for Life Sci
 - Chat GPT
 - Articulate and Analytical Thinker
 - Microsoft Excel
+- Tableau
+- Artificial Intelligence
 
 ## Languages
 - Malayalam (Native or Bilingual Proficiency)
